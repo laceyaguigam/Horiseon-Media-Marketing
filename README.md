@@ -13,5 +13,8 @@ A website that follows accessibility standards allowing for optimization of sear
 ## Website
 https://laceyaguigam.github.io/Horiseon-Media-Marketing/
 
+
+file:///Users/laceyaguigam/Desktop/Screen%20Shot%202022-07-07%20at%209.23.00%20AM.png
+
 ## Contribution 
 Made with ❤️ by Lacey Aguigam
