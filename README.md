@@ -1,7 +1,16 @@
 # Horiseon Media Marketing
 
 ## Purpose
-In a world full of technology that is constantly evolving, it is our job to maintain an inclusive web environment and provide a user friendly website that meets accesibility standards. The following project is a web application created for Horieson, a marketing company that would like a website that follows the accessibility standards. 
+In a world full of technology that is constantly evolving, it is our job to maintain an inclusive web environment and provide a user friendly website that meets accesibility standards. The following project is a web application  was designed for a desktop, Horieson, a marketing company that would like a website that follows the accessibility standards. 
+
+The web application source code should meet the following criteria:
+
+*  contain semantic HTML elements 
+*  elements follow a logical structure independent of styling and positioning 
+*  image elements should have accessible alt attributes
+*  heading attributes should fall in sequential order
+*  title elements should have a concise, descriptive title
+
 
 
 ## Built with
