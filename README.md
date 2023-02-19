@@ -1,8 +1,7 @@
-# Horiseon-Media-Marketing
-
+# Horiseon Media Marketing
 
 ## Purpose
-A website that follows accessibility standards allowing for optimization of search engines.
+In a world full of technology that is constantly evolving, it is our job to maintain an inclusive web environment and provide a user friendly website that meets accesibility standards. The following project is a web application created for Horieson, a marketing company that would like a website that follows the accessibility standards. 
 
 
 ## Built with
